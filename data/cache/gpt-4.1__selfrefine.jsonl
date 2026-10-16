@@ -1,0 +1,408 @@
+{"key": "sample_8", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_26", "answers": [true, true, false, true, true, false, false, true, true, false], "missing": 0}
+{"key": "sample_9", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_12", "answers": [true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_11", "answers": [true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_18", "answers": [true, true, true, true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_5", "answers": [true, true, true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_16", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_7", "answers": [true, false, false, false, false, true, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_2", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_10", "answers": [true, true, false, false, true, false, false], "missing": 0}
+{"key": "sample_13", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_22", "answers": [true, true, false, true, false, false, false, false, true, false, false, true], "missing": 0}
+{"key": "sample_19", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_27", "answers": [true, true, true, true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_23", "answers": [true, true, false, true, false, true, true, false, false, true], "missing": 0}
+{"key": "sample_30", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_31", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_35", "answers": [true, true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_33", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_49", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_39", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_34", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_43", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_45", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_44", "answers": [true, true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_47", "answers": [true, true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_52", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_54", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_55", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_48", "answers": [true, true, false, false, false, false, false, false, true, false, false, false], "missing": 0}
+{"key": "sample_60", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_63", "answers": [true, true, true, true, true], "missing": 0}
+{"key": "sample_56", "answers": [true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_57", "answers": [true, true, true, true, true, false, false, true, false], "missing": 0}
+{"key": "sample_59", "answers": [true, true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_62", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_68", "answers": [true, true, true, true, true, false], "missing": 0}
+{"key": "sample_61", "answers": [true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_66", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_69", "answers": [true, false, false, true, false, true], "missing": 0}
+{"key": "sample_78", "answers": [true, false, false, true, false, true], "missing": 0}
+{"key": "sample_76", "answers": [true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_83", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_84", "answers": [true, true, true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_72", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_64", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_88", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_89", "answers": [true, false, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_85", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_86", "answers": [true, true, false, true, false, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_97", "answers": [true, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_100", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_108", "answers": [true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_107", "answers": [true, true, true, false, true, true, false, true, false, true, true, false], "missing": 0}
+{"key": "sample_104", "answers": [true, true, true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_105", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_111", "answers": [true, true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_113", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_110", "answers": [true, true, true, true, false, false, true, true, false, true], "missing": 0}
+{"key": "sample_112", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_117", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_116", "answers": [true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_115", "answers": [true, true, true, false, false, false, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_120", "answers": [true, false, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_123", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_122", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_128", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_124", "answers": [true, true, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_125", "answers": [true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_129", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_132", "answers": [true, false, true, true, false], "missing": 0}
+{"key": "sample_140", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_131", "answers": [true, true, true, true, false, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_139", "answers": [true, true, false, false, false, false, false, true, false, false, false], "missing": 0}
+{"key": "sample_142", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_146", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_137", "answers": [true, true, true, false, true, true, true, true, true, false, true, true, true], "missing": 0}
+{"key": "sample_152", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_148", "answers": [true, true, true, true, true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_156", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_145", "answers": [true, true, true, false, false, false, true, false], "missing": 0}
+{"key": "sample_155", "answers": [true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_119", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_151", "answers": [true, true, false, false, true, true, true, true, false, true], "missing": 0}
+{"key": "sample_160", "answers": [true, false, false, true, false, true], "missing": 0}
+{"key": "sample_157", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_172", "answers": [false, false, false, true, false, false], "missing": 0}
+{"key": "sample_162", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_169", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_177", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_180", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_158", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_184", "answers": [true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_167", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_189", "answers": [false, false, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_191", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_183", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_181", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_190", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_188", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_185", "answers": [true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_192", "answers": [true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_200", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_214", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_215", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_211", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_205", "answers": [true, true, true, true, true, false, false, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_210", "answers": [true, true, true, true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_219", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_217", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_208", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_216", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_222", "answers": [false, false, true, false, true], "missing": 0}
+{"key": "sample_225", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_226", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_224", "answers": [true, true, true, true, false, false, false, true, false, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_229", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_201", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_230", "answers": [true, true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_234", "answers": [true, true, true, false, false, true, true, false, false, true], "missing": 0}
+{"key": "sample_238", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_244", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_245", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_237", "answers": [true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_240", "answers": [true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_252", "answers": [true, true, false, true, true, false, false, true], "missing": 0}
+{"key": "sample_247", "answers": [true, true, false, false, false, true, false, false, false], "missing": 0}
+{"key": "sample_246", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_231", "answers": [true, true, true, false, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_249", "answers": [true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_236", "answers": [true, false, true, true, true, true, false, false, false, false, true, true, true], "missing": 0}
+{"key": "sample_253", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_256", "answers": [true, true, true, true, true, false, true, true, true, true, false, true], "missing": 0}
+{"key": "sample_255", "answers": [true, false, true, true, false, false, true, true, false], "missing": 0}
+{"key": "sample_263", "answers": [false, false, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_266", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_261", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_265", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_277", "answers": [true, true, true, true, true, false], "missing": 0}
+{"key": "sample_267", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_259", "answers": [true, true, true, true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_273", "answers": [true, true, true, true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_279", "answers": [true, false, false, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_271", "answers": [true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_268", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_276", "answers": [true, false, false, true, true, false, true], "missing": 0}
+{"key": "sample_282", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_281", "answers": [true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_283", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_284", "answers": [true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_287", "answers": [true, false, true, true, false, true], "missing": 0}
+{"key": "sample_297", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_295", "answers": [true, true, false, false, false, false, false, true, false], "missing": 0}
+{"key": "sample_286", "answers": [true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_293", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_308", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_294", "answers": [true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_309", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_291", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_312", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_303", "answers": [true, true, true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_290", "answers": [true, false, true, false, true, false, true, true, false], "missing": 0}
+{"key": "sample_314", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_306", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_305", "answers": [true, true, true, true, true, true, false, true, true, true, true, true, false, true], "missing": 0}
+{"key": "sample_319", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_325", "answers": [true, false, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_318", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_329", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_326", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_321", "answers": [true, false, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_320", "answers": [true, true, true, true, false, false, false, true, true, true, true, false], "missing": 0}
+{"key": "sample_327", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_330", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_335", "answers": [true, true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_332", "answers": [true, true, false, true, true, false, true, false, true, true, false], "missing": 0}
+{"key": "sample_333", "answers": [true, true, true, true, false, true, true, true, false, false, true, true, false], "missing": 0}
+{"key": "sample_340", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_339", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_331", "answers": [true, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_345", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_353", "answers": [true, false, true, true, true, true, true, true, false, true, true, true], "missing": 0}
+{"key": "sample_341", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_354", "answers": [true, true, false, true, true, false], "missing": 0}
+{"key": "sample_350", "answers": [true, true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_360", "answers": [true, true, false, false, true, false], "missing": 0}
+{"key": "sample_337", "answers": [true, true, true, true, true, true, false, false, true, true, true, true, true, false, true], "missing": 0}
+{"key": "sample_358", "answers": [true, true, true, true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_364", "answers": [true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_362", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_356", "answers": [true, true, false, false, true, true, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_363", "answers": [true, true, true, true, false, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_365", "answers": [true, false, false, true, false, true], "missing": 0}
+{"key": "sample_367", "answers": [true, true, false, false, false, true, false, true, false, false], "missing": 0}
+{"key": "sample_366", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_370", "answers": [true, true, true, false, true, true], "missing": 0}
+{"key": "sample_376", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_375", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_371", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_379", "answers": [true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_386", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_383", "answers": [true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_378", "answers": [true, true, true, true, false, false, false, true, false, false, true], "missing": 0}
+{"key": "sample_389", "answers": [true, false, false, true, true, false, true], "missing": 0}
+{"key": "sample_374", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_385", "answers": [true, true, true, true, true, true, true, true, false, true, false, true, true, true, true], "missing": 0}
+{"key": "sample_390", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_392", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_388", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_394", "answers": [true, true, true, true, true, true, false, true, true], "missing": 0}
+{"key": "sample_369", "answers": [true, false, true, false, true, false, true, false, true, false, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_396", "answers": [false, false, false, true, false, true], "missing": 0}
+{"key": "sample_400", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_384", "answers": [true, true, true, true, true, true, false, true, true, false, true, false], "missing": 0}
+{"key": "sample_401", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_398", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_399", "answers": [true, false, true, true, false, false, false, false, true, true, false, false, false], "missing": 0}
+{"key": "sample_407", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_403", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_395", "answers": [true, true, true, false, false, false, true, false, false, false], "missing": 0}
+{"key": "sample_411", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_405", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_412", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_409", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_419", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_418", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_421", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_415", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_429", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_423", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_428", "answers": [false, false, false, true, false, false], "missing": 0}
+{"key": "sample_438", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_435", "answers": [true, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_432", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_440", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_424", "answers": [true, true, true, true, true, false, false, false, true, true, false, false, false], "missing": 0}
+{"key": "sample_427", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_442", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_416", "answers": [true, true, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_443", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_448", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_447", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_455", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_449", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_446", "answers": [true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_457", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_460", "answers": [true, true, true, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_464", "answers": [true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_463", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_465", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_462", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_466", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_451", "answers": [true, true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_471", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_468", "answers": [true, true, true, false, false, true, true, false], "missing": 0}
+{"key": "sample_470", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_475", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_469", "answers": [true, true, true, false, true, true, true, true, false, true], "missing": 0}
+{"key": "sample_477", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_476", "answers": [true, true, true, true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_473", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_495", "answers": [true, false, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_485", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_480", "answers": [true, true, false, false, false, false, false, true, false, false, false], "missing": 0}
+{"key": "sample_487", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_494", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_481", "answers": [true, false, false, true, false, false, true, false, true, false, true, true, false, false, true], "missing": 0}
+{"key": "sample_503", "answers": [true, true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_506", "answers": [true, true, true, false, true, true, false, true, true, true, false, false, true], "missing": 0}
+{"key": "sample_492", "answers": [true, true, false, false, false, true, true, false, false, true], "missing": 0}
+{"key": "sample_496", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_501", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_520", "answers": [false, false, true, false, true], "missing": 0}
+{"key": "sample_517", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_523", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_513", "answers": [false, false, true, true, false, false, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_488", "answers": [true, true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_509", "answers": [true, true, false, false, false, true, false, false, true], "missing": 0}
+{"key": "sample_510", "answers": [true, true, true, true, true, false, true, false, true, false], "missing": 0}
+{"key": "sample_525", "answers": [true, true, true, true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_528", "answers": [true, true, true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_529", "answers": [true, true, true, true, true, false, true, true, true, false], "missing": 0}
+{"key": "sample_526", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_536", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_535", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_505", "answers": [true, true, false, true, true, true, true, false, true], "missing": 0}
+{"key": "sample_530", "answers": [true, true, true, true, false, false, true, true, false, false, true], "missing": 0}
+{"key": "sample_539", "answers": [true, true, true, true, true, true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_548", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_546", "answers": [true, true, true, true, true], "missing": 0}
+{"key": "sample_534", "answers": [true, true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_533", "answers": [true, false, false, false, false, false, true, false, false, false, false], "missing": 0}
+{"key": "sample_545", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_552", "answers": [true, true, true, false, false, true, true, false, true], "missing": 0}
+{"key": "sample_556", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_551", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_573", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_567", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_569", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_558", "answers": [true, true, true, true, true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_574", "answers": [true, true, true, true, false, true, false, true, false], "missing": 0}
+{"key": "sample_570", "answers": [true, true, true, true, true, false], "missing": 0}
+{"key": "sample_578", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_580", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_560", "answers": [true, true, false, false, false, true, false, true, false, false], "missing": 0}
+{"key": "sample_576", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_579", "answers": [true, false, false, true, false, true, false, true, false, false, false, true], "missing": 0}
+{"key": "sample_588", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_595", "answers": [true, false, true, true, false, true], "missing": 0}
+{"key": "sample_583", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_596", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_601", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_603", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_607", "answers": [true, true, true, false, true, true], "missing": 0}
+{"key": "sample_610", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_609", "answers": [true, false, false, false, false, false, true, false, true, false, false], "missing": 0}
+{"key": "sample_616", "answers": [true, true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_617", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_614", "answers": [true, true, true, true, false, true, true, true, true, false, true, false, false, true, true, true], "missing": 0}
+{"key": "sample_624", "answers": [true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_623", "answers": [true, true, false, true, true, true, true, true, false, true, true, true, true, true], "missing": 0}
+{"key": "sample_632", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_638", "answers": [true, false, true, true, true, false, true, true, true], "missing": 0}
+{"key": "sample_635", "answers": [true, true, true, true, true, false, true, true], "missing": 0}
+{"key": "sample_637", "answers": [true, true, true, true, false, true, true], "missing": 0}
+{"key": "sample_625", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_634", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_643", "answers": [true, true, true, true, false], "missing": 0}
+{"key": "sample_636", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_642", "answers": [true, true, true, true, true, false, true, true, true, false], "missing": 0}
+{"key": "sample_640", "answers": [true, true, true, true, true, true, true, true, false, true, true], "missing": 0}
+{"key": "sample_644", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_645", "answers": [true, false, true, true, false, false, true, true, false], "missing": 0}
+{"key": "sample_639", "answers": [true, true, true, true, true, false, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_652", "answers": [true, true, false, false, false, false, true, false], "missing": 0}
+{"key": "sample_648", "answers": [true, true, true, false, true, false, true, false, false, true], "missing": 0}
+{"key": "sample_659", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_663", "answers": [true, true, false, false, false, true, false], "missing": 0}
+{"key": "sample_656", "answers": [true, true, true, false, true, true, false, true], "missing": 0}
+{"key": "sample_657", "answers": [true, true, false, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_669", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_650", "answers": [false, false, true, false, true], "missing": 0}
+{"key": "sample_665", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_672", "answers": [true, true, true, false, false, false, false, true], "missing": 0}
+{"key": "sample_666", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_677", "answers": [true, true, true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_680", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_673", "answers": [true, false, true, false, false, false, true, false, true], "missing": 0}
+{"key": "sample_679", "answers": [true, false, true, true, false, true, true, false, true, false, true, false, true, false, true], "missing": 0}
+{"key": "sample_686", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_692", "answers": [true, true, true, false, false, true, true, false, false], "missing": 0}
+{"key": "sample_690", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_678", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_688", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_706", "answers": [true, true, false, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_708", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_705", "answers": [true, false, true, true, false, false, true, true, false], "missing": 0}
+{"key": "sample_699", "answers": [true, false, false, false, false, true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_713", "answers": [true, true, true, true, false, true, false, true, false], "missing": 0}
+{"key": "sample_716", "answers": [true, true, true, true, true, true], "missing": 0}
+{"key": "sample_707", "answers": [true, true, true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_720", "answers": [false, false, true, true, false, true], "missing": 0}
+{"key": "sample_722", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_717", "answers": [true, true, true, false, false, true, true, false, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_724", "answers": [true, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_723", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_734", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_726", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_735", "answers": [true, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_729", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_725", "answers": [true, true, true, true, true, false], "missing": 0}
+{"key": "sample_728", "answers": [true, true, true, true, false, false, true, true, false, false, false], "missing": 0}
+{"key": "sample_730", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_737", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_745", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_742", "answers": [true, true, true, false, true, true, true, true, true], "missing": 0}
+{"key": "sample_736", "answers": [true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_751", "answers": [true, true, false, true, false, true], "missing": 0}
+{"key": "sample_753", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_747", "answers": [true, false, true, false, false, true, false, true, false, false], "missing": 0}
+{"key": "sample_740", "answers": [true, true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_750", "answers": [true, true, true, true, true, false, true, true, false], "missing": 0}
+{"key": "sample_756", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_758", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_755", "answers": [false, false, false, true, false, true], "missing": 0}
+{"key": "sample_760", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_764", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_777", "answers": [true, true, true, true, true, true, false], "missing": 0}
+{"key": "sample_772", "answers": [true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_767", "answers": [true, true, true, true, false, true, false], "missing": 0}
+{"key": "sample_759", "answers": [true, true, true, true, true, false, false, true, true, true, false, true], "missing": 0}
+{"key": "sample_771", "answers": [true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_778", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_780", "answers": [true, true, true, true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_776", "answers": [true, false, false, false, false, true, false, false], "missing": 0}
+{"key": "sample_788", "answers": [true, true, false, true, false], "missing": 0}
+{"key": "sample_781", "answers": [true, false, true, false, false, true, false, true], "missing": 0}
+{"key": "sample_786", "answers": [true, true, true, false, true, false], "missing": 0}
+{"key": "sample_783", "answers": [true, true, false, false, false, true, true, false, false, false], "missing": 0}
+{"key": "sample_782", "answers": [true, true, true, false, true, true], "missing": 0}
+{"key": "sample_792", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_787", "answers": [true, false, true, true, false, true], "missing": 0}
+{"key": "sample_798", "answers": [true, false, true, false, true], "missing": 0}
+{"key": "sample_793", "answers": [true, true, true, true, true, true, true, true], "missing": 0}
+{"key": "sample_791", "answers": [true, true, true, false, true, false, true], "missing": 0}
+{"key": "sample_789", "answers": [true, true, false, false, false, false, false, false, false, true, false, false, false, false, false], "missing": 0}
+{"key": "sample_794", "answers": [true, true, true, true, true, true, true], "missing": 0}

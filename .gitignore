@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Paper sources and internal notes are not part of the release
+paper/
+notes/
+cfp.md
+
+# Run logs contain local paths
+data/logs/
+data/runlogs/
+*.log
+
+# Responses of the closed Jev model are withheld until the vendor terms are checked
+data/cache/jev-*.jsonl
+
+# OS
+.DS_Store

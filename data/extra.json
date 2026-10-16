@@ -1,0 +1,39 @@
+{
+ "gpt-4o-mini__logprob": {
+  "map_marg_disagree": 13,
+  "atoms": 3271
+ },
+ "gpt-4.1-nano__logprob": {
+  "map_marg_disagree": 5,
+  "atoms": 3271
+ },
+ "gpt-4.1-mini__logprob": {
+  "map_marg_disagree": 5,
+  "atoms": 3271
+ },
+ "gpt-4.1-mini__sample": {
+  "map_marg_disagree": 28,
+  "atoms": 3271
+ },
+ "gpt-5-mini__sample": {
+  "map_marg_disagree": 17,
+  "atoms": 3271
+ },
+ "gpt-4.1__logprob": {
+  "map_marg_disagree": 2,
+  "atoms": 3271
+ },
+ "jev-1.13.0__jev": {
+  "map_marg_disagree": 0,
+  "atoms": 3271,
+  "jev_input_tokens": 803416
+ },
+ "models_of_T": {
+  "mean": 3.784313725490196,
+  "max": 19,
+  "median": 4.0
+ },
+ "clauses": {
+  "mean": 19.147058823529413
+ }
+}

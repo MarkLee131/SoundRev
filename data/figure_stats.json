@@ -1,0 +1,38 @@
+{
+ "gpt-4o-mini__logprob": {
+  "changed": 547,
+  "w2c": 437,
+  "c2w": 110,
+  "changed_ge_099": 280,
+  "changed_lt_09": 173,
+  "atoms": 3271,
+  "atoms_ge_099": 2479
+ },
+ "gpt-4.1-mini__logprob": {
+  "changed": 225,
+  "w2c": 181,
+  "c2w": 44,
+  "changed_ge_099": 79,
+  "changed_lt_09": 99,
+  "atoms": 3271,
+  "atoms_ge_099": 2680
+ },
+ "gpt-4.1__logprob": {
+  "changed": 137,
+  "w2c": 116,
+  "c2w": 21,
+  "changed_ge_099": 68,
+  "changed_lt_09": 44,
+  "atoms": 3271,
+  "atoms_ge_099": 3051
+ },
+ "jev-1.13.0__jev": {
+  "changed": 83,
+  "w2c": 67,
+  "c2w": 16,
+  "changed_ge_099": 0,
+  "changed_lt_09": 81,
+  "atoms": 3271,
+  "atoms_ge_099": 168
+ }
+}
